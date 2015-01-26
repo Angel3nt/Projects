@@ -27,7 +27,7 @@ namespace Hello
 
         private void OkClick(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello " + userName.Text);
+            MessageBox.Show("Hello " + userName.Text + ", nice to meet you!");
         }
     }
 }
