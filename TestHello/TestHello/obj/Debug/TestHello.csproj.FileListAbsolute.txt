@@ -1,0 +1,6 @@
+c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\bin\Debug\TestHello.exe.config
+c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\bin\Debug\TestHello.exe
+c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\bin\Debug\TestHello.pdb
+c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\obj\Debug\TestHello.exe
+c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\obj\Debug\TestHello.pdb
