@@ -4,3 +4,6 @@ c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\bin
 c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\bin\Debug\TestHello.pdb
 c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\obj\Debug\TestHello.exe
 c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\obj\Debug\TestHello.pdb
+C:\Users\Chris\Desktop\Projects\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Chris\Desktop\Projects\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\Chris\Desktop\Projects\TestHello\TestHello\obj\Debug\TestHello.pdb
