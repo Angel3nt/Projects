@@ -11,7 +11,7 @@ namespace TestHello
         static void Main(string[] args)
         {
             System. Console.WriteLine("Hello World!");
-            System.Console.WriteLine("Gurl got a big ol booty");
+            System.Console.WriteLine("Drop the bass!");
             System.Console.WriteLine("Code line add from Chris.");
         }
     }
