@@ -7,9 +7,18 @@ c:\users\angel_000\documents\visual studio 2013\Projects\TestHello\TestHello\obj
 C:\Users\Chris\Desktop\Projects\TestHello\TestHello\bin\Debug\TestHello.exe.config
 C:\Users\Chris\Desktop\Projects\TestHello\TestHello\obj\Debug\TestHello.exe
 C:\Users\Chris\Desktop\Projects\TestHello\TestHello\obj\Debug\TestHello.pdb
+<<<<<<< HEAD
 C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\TestHello\TestHello\bin\Debug\TestHello.exe.config
 C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\TestHello\TestHello\obj\Debug\TestHello.exe
 C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\TestHello\TestHello\obj\Debug\TestHello.pdb
 C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\TestHello\TestHello\bin\Debug\TestHello.exe
 C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\TestHello\TestHello\bin\Debug\TestHello.pdb
 C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+=======
+C:\Users\Ramel\Google Drive\Github\Projects\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Ramel\Google Drive\Github\Projects\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\Ramel\Google Drive\Github\Projects\TestHello\TestHello\obj\Debug\TestHello.pdb
+C:\Users\Ramel\Google Drive\Github\Projects\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\Ramel\Google Drive\Github\Projects\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Ramel\Google Drive\Github\Projects\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+>>>>>>> 226566eb34502b50be05bc4bf5187e19b259083a
