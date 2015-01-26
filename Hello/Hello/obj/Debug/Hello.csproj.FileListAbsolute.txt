@@ -11,3 +11,16 @@ c:\users\angel_000\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\H
 c:\users\angel_000\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
 c:\users\angel_000\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.exe
 c:\users\angel_000\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\MainWindow.baml
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\MainWindow.g.cs
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\App.g.cs
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello_MarkupCompile.cache
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello.g.resources
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache

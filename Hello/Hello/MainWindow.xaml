@@ -5,7 +5,7 @@
     <Grid>
         <TextBlock HorizontalAlignment="Left" Margin="38,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Height="45"><Run Text="Please enter your name."/><LineBreak/><Run/></TextBlock>
         <TextBox x:Name="userName" HorizontalAlignment="Left" Height="20" Margin="38,89,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="145"/>
-        <Button x:Name="Ok" Content="Ok" HorizontalAlignment="Left" Margin="216,89,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="Ok" Content="Ok" HorizontalAlignment="Left" Margin="216,89,0,0" VerticalAlignment="Top" Width="75" Click="OkClick"/>
 
     </Grid>
 </Window>
